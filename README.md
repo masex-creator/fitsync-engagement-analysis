@@ -26,3 +26,7 @@ High engagement is primarily driven by high-intensity activity (very active minu
 ## 📊 Key Metric
 Engagement Score:
 (Very Active * 3) + (Fairly Active * 2) + (Lightly Active * 1)
+
+## 📊 Visualization
+
+Dashboard available upon request or via Tableau Public.
